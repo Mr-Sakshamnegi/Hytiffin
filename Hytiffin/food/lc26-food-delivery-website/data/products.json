@@ -1,0 +1,117 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Crispy Fried Chicken",
+      "price": "rs130.00",
+      "url": "./images/meat-2.jpeg",
+      "category": "Non Veg"
+    },
+    {
+      "id": 2,
+      "title": "Meat Curry ",
+      "price": "15.00",
+      "url": "./images/meat-curry.jpeg",
+      "category": "Non Veg"
+    },
+    {
+      "id": 3,
+      "title": "Chicken Curry ",
+      "price": "12.00",
+      "url": "./images/Chicken-Curry.jpeg",
+      "category": "Non Veg"
+    },
+    {
+      "id": 4,
+      "title": "Fried rice",
+      "price": "17.00",
+      "url":"./images/fried-rice.jpeg",
+      "category": "Rice Menu"
+    },
+    {
+      "id": 5,
+      "title": "Non Veg Thali",
+      "price": "19.00",
+      "url": "./images/non.jpeg",
+      "category": "Special Thali"
+    },
+    {
+      "id": 6,
+      "title": "Rasmalai",
+      "price": "20.00",
+      "url": "./images/rasmalai.jpeg",
+      "category": "Desserts"
+    },
+    {
+      "id": 7,
+      "title": "Ice Cream",
+      "price": "5.00",
+      "url": "./images/ice-cream.png",
+      "category": "Desserts"
+    },
+    {
+      "id": 8,
+      "title": "Butter-Paneer",
+      "price": "12.00",
+      "url": "./images/butter-paneer.jpeg",
+      "category": "Veg"
+    },
+    {
+      "id": 9,
+      "title": "Jeera Rice",
+      "price": "12.00",
+      "url": "./images/jeera-rice.jpeg",
+      "category": "Rice Menu"
+    },
+    {
+      "id": 10,
+      "title": "Rajma",
+      "price": "12.00",
+      "url": "./images/rajma.jpeg",
+      "category": "Veg"
+    },
+    {
+      "id": 11,
+      "title": "Thali",
+      "price": "12.00",
+      "url": "./images/thali.jpeg",
+      "category": "Special Thali"
+    },
+    {
+      "id": 12,
+      "title": "Pahadi Thali",
+      "price": "12.00",
+      "url": "./images/pahadi.jpeg",
+      "category": "Special Thali"
+    },
+    {
+      "id": 13,
+      "title": "Pastry",
+      "price": "12.00",
+      "url": "./images/pastry.jpeg",
+      "category": "Desserts"
+    },
+    {
+      "id": 14,
+      "title": "Mix Veg",
+      "price": "12.00",
+      "url": "./images/mix.jpeg",
+      "category": "Veg"
+    },
+    {
+      "id": 15,
+      "title": "Ice Cream",
+      "price": "12.00",
+      "url": "./images/dish-8.png",
+      "category": "Pizza"
+    },
+    {
+      "id": 16,
+      "title": "Plain Rice",
+      "price": "12.00",
+      "url": "./images/plain-rice.jpeg",
+      "category": "Rice Menu"
+    }
+    
+  ]
+}
